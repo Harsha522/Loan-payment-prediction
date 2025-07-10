@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Telecom-Customer-Churn-prediction"
+		},
+		{
+			"path": "../Heart disease classification using ML"
+		}
+	],
+	"settings": {}
+}

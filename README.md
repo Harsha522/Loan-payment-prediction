@@ -1,0 +1,1 @@
+This project uses machine learning to predict the likelihood of a borrower repaying a loan on time. By analyzing historical loan and borrower data, the model helps financial institutions assess risk, make informed lending decisions, and reduce default rates. The system aims to improve the accuracy of loan approval processes and enhance financial management.
